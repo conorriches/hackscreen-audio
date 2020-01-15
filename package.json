@@ -1,0 +1,11 @@
+{
+  "name": "hackscreen-audio",
+  "version": "1.0.0",
+  "description": "Hackscreen audio service to make topics become noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
